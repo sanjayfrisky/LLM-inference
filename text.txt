@@ -1,0 +1,22 @@
+
+# file handling
+
+# with open ("text.txt", "r") as f:
+#     print(f.read())
+
+#write
+
+# with open("text.txt","w") as f:
+#     f.write("csdkncksdncksnc")
+
+# #append
+
+# with open("text.txt","a") as f:
+#     new = "\n harish and arun is best friends and snakes"
+#     f.write(new)
+
+#import os 
+# os.remove("text.txt")
+
+
+HI HELLO BUDDY
